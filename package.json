@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "mysql2": "^2.3.3",
+    "mysql3": "^0.6.0",
+    "node": "^17.4.0",
+    "sequelize": "^6.15.0"
+  },
+  "name": "conect-bd-nodejs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
